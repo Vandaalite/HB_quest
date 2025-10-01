@@ -5,7 +5,7 @@
         {
             "intitule" : "Détruire Spioune",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest2" :
@@ -614,3 +614,4 @@
     }
 
 }
+
