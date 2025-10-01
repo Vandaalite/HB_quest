@@ -12,7 +12,7 @@
         {
             "intitule" : "Un joueur doit en tuer 100 autres",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest3" :
@@ -40,7 +40,7 @@
         {
             "intitule" : "Exposer Magehunter",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest7" :
@@ -183,7 +183,7 @@
         {
             "intitule" : "Chasser un Obsidilith",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest14" : 
@@ -614,4 +614,5 @@
     }
 
 }
+
 
