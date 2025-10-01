@@ -3,7 +3,7 @@
 
         "quest1" : 
         {
-            "intitule" : "Détruire Spioune",
+            "intitule" : "Construire un autel pour cette divinitée",
             "reward" : 1,
             "fait" : true
         },
@@ -614,5 +614,6 @@
     }
 
 }
+
 
 
