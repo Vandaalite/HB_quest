@@ -5,14 +5,14 @@
         {
             "intitule" : "Construire un autel pour cette divinitée",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest2" :
         {
             "intitule" : "Un joueur doit en tuer 100 autres",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest3" :
@@ -40,7 +40,7 @@
         {
             "intitule" : "Exposer Magehunter",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest7" :
@@ -183,7 +183,7 @@
         {
             "intitule" : "Chasser un Obsidilith",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest14" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
