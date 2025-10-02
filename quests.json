@@ -5,7 +5,7 @@
         {
             "intitule" : "Construire un autel pour cette divinitée",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest2" :
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
