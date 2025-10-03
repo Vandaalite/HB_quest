@@ -12,7 +12,7 @@
         {
             "intitule" : "Un joueur doit en tuer 100 autres",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest3" :
@@ -162,7 +162,7 @@
         {
             "intitule" : "Chasser un Yeti",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest11" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
