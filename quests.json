@@ -5,91 +5,91 @@
         {
             "intitule" : "Construire un autel pour cette divinitée",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest2" :
         {
             "intitule" : "Un joueur doit en tuer 100 autres",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest3" :
         {
             "intitule" : "Détruire l'autel d'une autre divinitée",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest4" :
         {
             "intitule" : "Exposer une masse",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest5" :
         {
             "intitule" : "Exposer l'épée du chevalier",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest6" :
         {
             "intitule" : "Exposer Magehunter",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest7" :
         {
             "intitule" : "Exposer Spellbreaker",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest8" :
         {
             "intitule" : "Exposer l'Amethyst Rapier",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest9" :
         {
             "intitule" : "Exposer la Boreal Blade",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest10" :
         {
             "intitule" : "Exposer la Legionnaire Flamberge",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest11" :
         {
             "intitule" : "Exposer Hellrazor",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest12" :
         {
             "intitule" : "Organiser une bataille navale",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest13" :
         {
             "intitule" : "Remporter un tournoi d'arène",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         }
     },
 
@@ -99,105 +99,105 @@
         {
             "intitule" : "Construire un autel pour cette divinitée",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest2" : 
         {
             "intitule" : "Obtenir un casque de tortue",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest3" : 
         {
             "intitule" : "Chasser l'Ender Dragon",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest4" : 
         {
             "intitule" : "Chasser un Wither",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest5" : 
         {
             "intitule" : "Chasser un Warden",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest6" : 
         {
             "intitule" : "Chasser le Night Lish",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest7" : 
         {
             "intitule" : "Chasser un Void Blossom",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest8" : 
         {
             "intitule" : "Chasser un Nether Gauntlet",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest9" : 
         {
             "intitule" : "Chasser un Infernal Dragon",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest10" : 
         {
             "intitule" : "Chasser un Yeti",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest11" : 
         {
             "intitule" : "Chasser un Sandworm",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest12" : 
         {
             "intitule" : "Chasser un Hunderworld Knight",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest13" : 
         {
             "intitule" : "Chasser un Obsidilith",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest14" : 
         {
             "intitule" : "Chasser un Guardian",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest15" : 
         {
             "intitule" : "Obtenir toutes les têtes lootable du jeu Vanilla",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         }
     },
 
@@ -208,84 +208,84 @@
         {
             "intitule" : "Construire un autel pour cette divinitée",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest2" : 
         {
             "intitule" : "Atteindre des coordonnées à 1 000 000 de blocs",
             "reward" : 4,
-            "fait" : true
+            "fait" : false
         },
 
         "quest3" : 
         {
             "intitule" : "Faire un One Man Show au théâtre devant du public (au moins 3 joueurs)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest4" : 
         {
             "intitule" : "Apporter un exemplaire de chaque fleur",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest5" : 
         {
             "intitule" : "Trouver le Trident Monument",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest6" : 
         {
             "intitule" : "Trouver la Citadelle (Nether)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest7" : 
         {
             "intitule" : "Trouver un Sanctum (Nether)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest8" : 
         {
             "intitule" : "Trouver la Lich Tower",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest9" : 
         {
             "intitule" : "Trouver l'Obsidilith Arena (End)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest10" : 
         {
             "intitule" : "Obtenir le succées 'Soul Searcher'",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest11" : 
         {
             "intitule" : "Obtenir le succées 'Centennial'",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest12" : 
         {
             "intitule" : "Obtenir le succées 'Wanderer'",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         }
     },
 
@@ -296,105 +296,105 @@
         {
             "intitule" : "Construire un autel pour cette divinitée",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest2" : 
         {
             "intitule" : "Fabriquer l'Ancien Codex",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest3" : 
         {
             "intitule" : "Farbiquer le Dragonskin Spell Book",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest4" : 
         {
             "intitule" : "Farbiquer le Frostbranded Book",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest5" : 
         {
             "intitule" : "Apprendre le sort Wither Skull (niv. 10)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest6" : 
         {
             "intitule" : "Apprendre le sort Teleport (niv. 5)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest7" : 
         {
             "intitule" : "Apprendre le sort Wololo (niv. 1)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest8" : 
         {
             "intitule" : "Apprendre le sort Wall of Flame (niv. 5)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest9" : 
         {
             "intitule" : "Apprendre le sort Wisp (niv. 10)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest10" : 
         {
             "intitule" : "Apprendre le sort Summon Polar Bear (niv. 10)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest11" : 
         {
             "intitule" : "Apprendre le sort Volt Strike (niv. 10)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest12" : 
         {
             "intitule" : "Apprendre le sort Touch Dig (niv. 3)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest13" : 
         {
             "intitule" : "Obtenir le succées 'Comment en est on arrivé là ?'",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest14" : 
         {
             "intitule" : "Faire un spectacle de magie devant un public (au moins 3 joueurs)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest15" : 
         {
             "intitule" : "Apprendre un sort Eldritch",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         }
     },
 
@@ -405,77 +405,77 @@
         {
             "intitule" : "Construire un autel pour cette divinitée",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest2" : 
         {
             "intitule" : "Construire une usine à fer",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest3" : 
         {
             "intitule" : "Construire une usine la plus inutile possible",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest4" : 
         {
             "intitule" : "Construire un canon à joueur (ce dernier ne doit pas mourir)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest5" : 
         {
             "intitule" : "Construire une machine à gateau",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest6" : 
         {
             "intitule" : "Découvrir 1000 essences (Ars Elixirium)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest7" : 
         {
             "intitule" : "Générer 1 000 000 Su (Create)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest8" : 
         {
             "intitule" : "Construire un parc d'attraction",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest9" : 
         {
             "intitule" : "Obtenir le succées 'Swimming with the Striders' (Create)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest10" : 
         {
             "intitule" : "Créer une musique à l'aide des sifflets (Create)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest11" : 
         {
             "intitule" : "Fabriquer un robot géant",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         }
     },
 
@@ -486,70 +486,70 @@
         {
             "intitule" : "Construire un autel pour cette divinitée",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest2" : 
         {
             "intitule" : "Obtenir le succées 'Chef of the Ages' (Brewin & Chewin)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest3" : 
         {
             "intitule" : "Construire une boulangerie",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest4" : 
         {
             "intitule" : "Organiser un banquet (au moins 5 joueurs)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest5" : 
         {
             "intitule" : "Fêter un vrai anniversaire en mangeant un gâteau dans le jeu",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest6" : 
         {
             "intitule" : "Construire une usine à poulet",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest7" : 
         {
             "intitule" : "Obtenir le succées 'Master Chef' (Farmer's Delight)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest8" : 
         {
             "intitule" : "Construire un restaurant",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest9" : 
         {
             "intitule" : "Construire une ferme",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest10" : 
         {
             "intitule" : "Obtenir le succées 'Crafting Problem' (Brewin & Chewin)",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         }
     },
 
@@ -560,60 +560,61 @@
         {
             "intitule" : "Construire un autel pour cette divinitée",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest2" : 
         {
             "intitule" : "Construire un marché",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest3" : 
         {
             "intitule" : "Construire un port",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest4" : 
         {
             "intitule" : "Construire un théâtre",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest5" : 
         {
             "intitule" : "Construire une arène",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest6" : 
         {
             "intitule" : "Construire l'aile botanique du musée",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest7" : 
         {
             "intitule" : "Construire l'aile bibliothèquaire du musée",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         },
 
         "quest8" : 
         {
             "intitule" : "Construire l'aile de l'armurerie du musée",
             "reward" : 1,
-            "fait" : true
+            "fait" : false
         }
     }
 
 }
+
 
 
 
