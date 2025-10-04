@@ -243,7 +243,7 @@
         {
             "intitule" : "Trouver la Citadelle (Nether)",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest7" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
