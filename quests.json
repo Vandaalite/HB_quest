@@ -343,9 +343,9 @@
 
         "quest8" : 
         {
-            "intitule" : "Apprendre le sort Wall of Flame (niv. 5)",
+            "intitule" : "Apprendre le sort Wall of Fire (niv. 5)",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest9" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
