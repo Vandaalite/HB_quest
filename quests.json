@@ -148,7 +148,7 @@
         {
             "intitule" : "Chasser un Nether Gauntlet",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest9" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
