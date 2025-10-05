@@ -412,7 +412,7 @@
         {
             "intitule" : "Construire une usine à fer",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest3" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
