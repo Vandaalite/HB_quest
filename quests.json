@@ -338,7 +338,7 @@
         {
             "intitule" : "Apprendre le sort Wololo (niv. 1)",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest8" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
