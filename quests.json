@@ -24,56 +24,56 @@
 
         "quest4" :
         {
-            "intitule" : "Exposer une masse",
+            "intitule" : "Posséder une masse",
             "reward" : 1,
             "fait" : false
         },
 
         "quest5" :
         {
-            "intitule" : "Exposer l'épée du chevalier",
+            "intitule" : "Posséder l'épée du chevalier",
             "reward" : 1,
             "fait" : false
         },
 
         "quest6" :
         {
-            "intitule" : "Exposer Magehunter",
+            "intitule" : "Posséder Magehunter",
             "reward" : 1,
             "fait" : false
         },
 
         "quest7" :
         {
-            "intitule" : "Exposer Spellbreaker",
+            "intitule" : "Posséder Spellbreaker",
             "reward" : 1,
             "fait" : false
         },
 
         "quest8" :
         {
-            "intitule" : "Exposer l'Amethyst Rapier",
+            "intitule" : "Posséder l'Amethyst Rapier",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest9" :
         {
-            "intitule" : "Exposer la Boreal Blade",
+            "intitule" : "Posséder la Boreal Blade",
             "reward" : 1,
             "fait" : false
         },
 
         "quest10" :
         {
-            "intitule" : "Exposer la Legionnaire Flamberge",
+            "intitule" : "Posséder la Legionnaire Flamberge",
             "reward" : 1,
             "fait" : false
         },
 
         "quest11" :
         {
-            "intitule" : "Exposer Hellrazor",
+            "intitule" : "Posséder Hellrazor",
             "reward" : 1,
             "fait" : false
         },
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
