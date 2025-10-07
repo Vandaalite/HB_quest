@@ -47,7 +47,7 @@
         {
             "intitule" : "Posséder Spellbreaker",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest8" :
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
