@@ -250,7 +250,7 @@
         {
             "intitule" : "Trouver un Sanctum (Nether)",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest8" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
