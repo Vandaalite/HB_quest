@@ -322,56 +322,56 @@
 
         "quest5" : 
         {
-            "intitule" : "Apprendre le sort Wither Skull (niv. 10)",
+            "intitule" : "Apprendre le sort Wither Skull (niv. 10) / Legendary",
             "reward" : 1,
             "fait" : false
         },
 
         "quest6" : 
         {
-            "intitule" : "Apprendre le sort Teleport (niv. 5)",
+            "intitule" : "Apprendre le sort Teleport (niv. 5) / Legendary",
             "reward" : 1,
             "fait" : false
         },
 
         "quest7" : 
         {
-            "intitule" : "Apprendre le sort Wololo (niv. 1)",
+            "intitule" : "Apprendre le sort Wololo (niv. 1) / Legendary",
             "reward" : 1,
             "fait" : true
         },
 
         "quest8" : 
         {
-            "intitule" : "Apprendre le sort Wall of Fire (niv. 5)",
+            "intitule" : "Apprendre le sort Wall of Fire (niv. 5) / Legendary",
             "reward" : 1,
             "fait" : true
         },
 
         "quest9" : 
         {
-            "intitule" : "Apprendre le sort Wisp (niv. 10)",
+            "intitule" : "Apprendre le sort Wisp (niv. 10) / Legendary",
             "reward" : 1,
             "fait" : false
         },
 
         "quest10" : 
         {
-            "intitule" : "Apprendre le sort Summon Polar Bear (niv. 10)",
+            "intitule" : "Apprendre le sort Summon Polar Bear (niv. 10) / Legendary",
             "reward" : 1,
             "fait" : false
         },
 
         "quest11" : 
         {
-            "intitule" : "Apprendre le sort Volt Strike (niv. 10)",
+            "intitule" : "Apprendre le sort Volt Strike (niv. 10) / Legendary",
             "reward" : 1,
             "fait" : false
         },
 
         "quest12" : 
         {
-            "intitule" : "Apprendre le sort Touch Dig (niv. 3)",
+            "intitule" : "Apprendre le sort Touch Dig (niv. 3) / Legendary",
             "reward" : 1,
             "fait" : false
         },
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
