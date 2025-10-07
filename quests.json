@@ -31,9 +31,9 @@
 
         "quest5" :
         {
-            "intitule" : "Posséder l'épée du chevalier",
+            "intitule" : "Posséder la Knight Sword",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest6" :
@@ -176,7 +176,7 @@
         {
             "intitule" : "Chasser un Hunderworld Knight",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest13" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
