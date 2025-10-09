@@ -40,7 +40,7 @@
         {
             "intitule" : "Posséder Magehunter",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest7" :
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
