@@ -134,14 +134,14 @@
         {
             "intitule" : "Chasser le Night Lish",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest7" : 
         {
             "intitule" : "Chasser un Void Blossom",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest8" : 
@@ -257,7 +257,7 @@
         {
             "intitule" : "Trouver la Lich Tower",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest9" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
