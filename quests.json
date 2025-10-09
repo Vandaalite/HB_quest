@@ -190,7 +190,7 @@
         {
             "intitule" : "Chasser un Guardian",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest15" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
