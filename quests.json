@@ -331,7 +331,7 @@
         {
             "intitule" : "Apprendre le sort Teleport (niv. 5) / Legendary",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest7" : 
@@ -352,7 +352,7 @@
         {
             "intitule" : "Apprendre le sort Wisp (niv. 10) / Legendary",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest10" : 
@@ -373,7 +373,7 @@
         {
             "intitule" : "Apprendre le sort Touch Dig (niv. 3) / Legendary",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest13" : 
@@ -394,7 +394,7 @@
         {
             "intitule" : "Apprendre un sort Eldritch",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         }
     },
 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
