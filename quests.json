@@ -324,7 +324,7 @@
         {
             "intitule" : "Apprendre le sort Wither Skull (niv. 10) / Legendary",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest6" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
