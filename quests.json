@@ -317,7 +317,7 @@
         {
             "intitule" : "Farbiquer le Frostbranded Book",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest5" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
