@@ -61,14 +61,14 @@
         {
             "intitule" : "Posséder la Boreal Blade",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest10" :
         {
             "intitule" : "Posséder la Legionnaire Flamberge",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest11" :
@@ -120,7 +120,7 @@
         {
             "intitule" : "Chasser un Wither",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest5" : 
@@ -301,9 +301,9 @@
 
         "quest2" : 
         {
-            "intitule" : "Fabriquer l'Ancien Codex",
+            "intitule" : "Fabriquer l'Ancient Codex",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest3" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
