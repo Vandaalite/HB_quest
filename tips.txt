@@ -1,3 +1,5 @@
-Text 1
-Text 2
-Text 3
+Une mini-map ? Craftez l'Atlas, chargez des cartes vides dedans et c'est parti !
+Marre de replanter les cultures ? Faites clic droit avec une houe dans la main, juste pour voir
+Nouveau mod pour les backpack, on passe sur Sophisticated Backpack, pensez à migrer vos sacs !
+Les divinitées se portent bien pour le moment, beau travail tout le monde
+Vous vous perdez avec tous les items disponibles ? Double clic sur la barre de recherche d'EMI, et ils s'afficheront dans l'inventaire
