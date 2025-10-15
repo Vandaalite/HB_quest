@@ -155,7 +155,7 @@
         {
             "intitule" : "Chasser un Infernal Dragon",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest10" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
