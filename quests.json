@@ -127,7 +127,7 @@
         {
             "intitule" : "Chasser un Warden",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest6" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
