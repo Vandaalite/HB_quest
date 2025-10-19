@@ -271,7 +271,7 @@
         {
             "intitule" : "Obtenir le succées 'Soul Searcher'",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest11" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
