@@ -106,7 +106,7 @@
         {
             "intitule" : "Obtenir un casque de tortue",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest3" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
