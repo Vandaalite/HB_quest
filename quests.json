@@ -461,7 +461,7 @@
         {
             "intitule" : "Obtenir le succées 'Swimming with the Striders' (Create)",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest10" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
