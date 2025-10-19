@@ -162,7 +162,7 @@
         {
             "intitule" : "Chasser un Yeti",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest11" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
