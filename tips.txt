@@ -4,3 +4,4 @@ Nouveau mod pour les backpack, on passe sur Sophisticated Backpack, pensez à mi
 Les divinitées se portent bien pour le moment, beau travail tout le monde
 Vous vous perdez avec tous les items disponibles ? Double clic sur la barre de recherche d'EMI, et ils s'afficheront dans l'inventaire
 Améliorer votre livre de sort avec les sorts dedans les supprimera, faites bien attention
+Vérifiez bien les Items Additionnels lorsque vous récuperez de l'équipement sur un corps
