@@ -1,4 +1,3 @@
-Une mini-map ? Craftez l'Atlas, chargez des cartes vides dedans et c'est parti !
 Marre de replanter les cultures ? Faites clic droit avec une houe dans la main, juste pour voir
 Rems76, ton compteur de kill sera reset si plus de 50% est fait sur Juxxia
 Nouveau mod pour les backpack, on passe sur Sophisticated Backpack, pensez à migrer vos sacs !
