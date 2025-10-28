@@ -113,7 +113,7 @@
         {
             "intitule" : "Chasser l'Ender Dragon",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest4" : 
@@ -183,7 +183,7 @@
         {
             "intitule" : "Chasser un Obsidilith",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest14" : 
@@ -236,7 +236,7 @@
         {
             "intitule" : "Trouver le Trident Monument",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest6" : 
@@ -264,7 +264,7 @@
         {
             "intitule" : "Trouver l'Obsidilith Arena (End)",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest10" : 
@@ -500,14 +500,14 @@
         {
             "intitule" : "Construire une boulangerie",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest4" : 
         {
             "intitule" : "Organiser un banquet (au moins 5 joueurs)",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest5" : 
@@ -521,7 +521,7 @@
         {
             "intitule" : "Construire une usine à poulet",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest7" : 
@@ -535,7 +535,7 @@
         {
             "intitule" : "Construire un restaurant",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest9" : 
@@ -567,7 +567,7 @@
         {
             "intitule" : "Construire un marché",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest3" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
