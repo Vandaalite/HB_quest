@@ -447,7 +447,7 @@
         {
             "intitule" : "Générer 1 000 000 Su (Create)",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest8" : 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
