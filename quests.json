@@ -99,7 +99,7 @@
         {
             "intitule" : "Construire un autel pour cette divinitée",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         },
 
         "quest2" : 
@@ -197,7 +197,7 @@
         {
             "intitule" : "Obtenir toutes les têtes lootable du jeu Vanilla",
             "reward" : 1,
-            "fait" : false
+            "fait" : true
         }
     },
 
@@ -614,6 +614,7 @@
     }
 
 }
+
 
 
 
